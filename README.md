@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @RadaNeelima
+- 👀 I’m a cs student...
+- 🌱 I’m currently studying ...
+- ⚡ Fun fact: you cant see ur ears without a mirror...
+
+<!---
+RadaNeelima/RadaNeelima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
